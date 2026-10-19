@@ -62,6 +62,16 @@ REST APIs, CRUD operations, and object-oriented programming.
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+ # 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kalmesh15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=kalmesh15&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kalmesh15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=kalmesh15&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
 ### 🧠 Core Concepts
 
 - Object-Oriented Programming
@@ -170,12 +180,4 @@ Frontend
  ├── JavaScript
  └── React.js
 
- # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kalmesh15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kalmesh15&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kalmesh15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=kalmesh15&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
