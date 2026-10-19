@@ -91,6 +91,24 @@ REST APIs, CRUD operations, and object-oriented programming.
 
 ## 🚀 Projects
 
+### 🔧 Common Module Project
+
+**Tech Stack:** Java, Spring Framework, Spring MVC, Hibernate, JPA, MySQL, JSP
+
+- Developed a common application module for user registration, login,
+  profile management and validation.
+- Implemented CRUD operations using Spring MVC, Hibernate and JPA.
+- Applied layered architecture using Controller, Service, DAO, DTO and Entity classes.
+- Implemented form handling and server-side data validation.
+- Integrated Hibernate/JPA with MySQL for persistent data storage and entity mapping.
+- Implemented REST APIs for validation and login-related operations.
+- Implemented email OTP functionality for account verification and
+  password reset workflows.
+- Used JSP for the frontend and Spring MVC for request handling and form data binding.
+- Used Maven and Git/GitHub for dependency management and version control.
+
+---
+
 ### 💼 Online Job Finder System
 
 **Tech Stack:** Java, Spring Framework, Spring MVC, Hibernate, JPA, MySQL, JSP
@@ -115,37 +133,6 @@ REST APIs, CRUD operations, and object-oriented programming.
 - Integrated Hibernate/JPA with MySQL for persistent data storage.
 - Implemented entity relationships between pizzas, employees and preparation records.
 - Applied layered architecture using Servlet, Service, DAO, DTO and Entity classes.
-
----
-
-### 🔧 Common Module Project
-
-**Tech Stack:** Java, Spring Framework, Spring MVC, Hibernate, JPA, MySQL, JSP
-
-- Developed a common application module for user registration, login,
-  profile management and validation.
-- Implemented CRUD operations using Spring MVC, Hibernate and JPA.
-- Applied layered architecture using Controller, Service, DAO, DTO and Entity classes.
-- Implemented form handling and server-side data validation.
-- Integrated Hibernate/JPA with MySQL for persistent data storage and entity mapping.
-- Implemented REST APIs for validation and login-related operations.
-- Implemented email OTP functionality for account verification and
-  password reset workflows.
-- Used JSP for the frontend and Spring MVC for request handling and form data binding.
-- Used Maven and Git/GitHub for dependency management and version control.
-
----
-
-### 🏦 Banking System
-
-**Tech Stack:** Core Java, OOP, Exception Handling
-
-- Developed a console-based banking application.
-- Implemented account management operations.
-- Added deposit, withdrawal and balance-check functionality.
-- Applied OOP concepts such as encapsulation and class design.
-- Implemented exception handling for invalid transactions.
-- Used file handling to maintain transaction history.
 
 ---
 
