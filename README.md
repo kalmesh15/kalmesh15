@@ -62,52 +62,16 @@ REST APIs, CRUD operations, and object-oriented programming.
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
- # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kalmesh15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kalmesh15&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kalmesh15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=kalmesh15&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
 ### 🧠 Core Concepts
 
-- Object-Oriented Programming
-- Collections Framework
-- Java 8 Features
-- Exception Handling
-- CRUD Operations
-- REST APIs
-- Spring IoC & Dependency Injection
-- MVC Architecture
-- Layered Architecture
-- Entity Relationships
-- Data Validation
-- Object-Relational Mapping
+`OOP` · `Collections` · `Java 8` · `Exception Handling` · `CRUD`
+· `REST APIs` · `Spring IoC` · `Dependency Injection` · `MVC`
+· `Layered Architecture` · `Entity Relationships` · `Data Validation`
+· `ORM`
 
 ---
 
 ## 🚀 Projects
-
-### 🔧 Common Module Project
-
-**Tech Stack:** Java, Spring Framework, Spring MVC, Hibernate, JPA, MySQL, JSP
-
-- Developed a common application module for user registration, login,
-  profile management and validation.
-- Implemented CRUD operations using Spring MVC, Hibernate and JPA.
-- Applied layered architecture using Controller, Service, DAO, DTO and Entity classes.
-- Implemented form handling and server-side data validation.
-- Integrated Hibernate/JPA with MySQL for persistent data storage and entity mapping.
-- Implemented REST APIs for validation and login-related operations.
-- Implemented email OTP functionality for account verification and
-  password reset workflows.
-- Used JSP for the frontend and Spring MVC for request handling and form data binding.
-- Used Maven and Git/GitHub for dependency management and version control.
-
----
 
 ### 💼 Online Job Finder System
 
@@ -136,35 +100,106 @@ REST APIs, CRUD operations, and object-oriented programming.
 
 ---
 
+### 🔧 Common Module Project
+
+**Tech Stack:** Java, Spring Framework, Spring MVC, Hibernate, JPA, MySQL, JSP
+
+- Developed a common application module for user registration, login,
+  profile management and validation.
+- Implemented CRUD operations using Spring MVC, Hibernate and JPA.
+- Applied layered architecture using Controller, Service, DAO, DTO and Entity classes.
+- Implemented form handling and server-side data validation.
+- Integrated Hibernate/JPA with MySQL for persistent data storage and entity mapping.
+- Implemented REST APIs for validation and login-related operations.
+- Implemented email OTP functionality for account verification and
+  password reset workflows.
+- Used JSP for the frontend and Spring MVC for request handling and form data binding.
+- Used Maven and Git/GitHub for dependency management and version control.
+
+---
+
 ## 📚 Currently Learning
 
+### ☕ Java
+
+- Core Java
+- OOP
+- Collections Framework
+- Java 8 Features
+- Streams API
+- Exception Handling
+
+### 🌱 Spring
+
+- Spring Framework
+- Spring MVC
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- Spring Security
+
+### 🔧 Backend
+
+- REST APIs
+- MySQL
+- JDBC
+- Maven
+
+### ⚛️ Frontend
+
+- HTML
+- CSS
+- JavaScript
+- React.js(Basic)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalmesh15&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalmesh15&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kalmesh15&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalmesh15&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/kalmesh-dyamannavar/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kalmeshdyamannavar@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_INSTAGRAM_URL">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Developer Mindset
+
 ```text
-Java
- ├── Core Java
- ├── OOP
- ├── Collections
- ├── Java 8
- ├── Streams API
- └── Exception Handling
-
-Spring
- ├── Spring Framework
- ├── Spring MVC
- ├── Spring Boot
- ├── Spring Data JPA
- ├── Hibernate
- └── Spring Security
-
-Backend
- ├── REST APIs
- ├── MySQL
- ├── JDBC
- └── Maven
-
-Frontend
- ├── HTML
- ├── CSS
- ├── JavaScript
- └── React.js
-
-
+Learn → Build → Debug → Improve → Repeat
